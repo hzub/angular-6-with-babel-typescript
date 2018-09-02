@@ -1,12 +1,7 @@
 {
   "presets": [
-    [
-      "@babel/preset-typescript",
-      {
-        "allExtensions": true,
-      }
-    ],
-    "@babel/preset-env"
+    "@babel/preset-env",
+    "@babel/preset-typescript"
   ],
   "plugins": [
     [
